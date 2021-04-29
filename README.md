@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello world there 👋
 
-<!--
-**Glitchfix/Glitchfix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Glitchfix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glitchfix&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/Glitchfix)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchfix&langs_count=12&layout=compact)](https://github.com/Glitchfix)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+- 🌱 I’m currently learning the math behind deep learning models and developing custom kernel modules.
+
+- 🖥️ I can help you debug and fix your code. And code, I can code things.
+
+- 🧑‍🔬 If you are a student or researcher working in the STEM domain please feel free to reach out I would love to help (It's free!).
+
+- 👯 I’m looking to collaborate to build fun projects, machine learning applications, backend tools and frameworks, mathematical algorithms and security tools
