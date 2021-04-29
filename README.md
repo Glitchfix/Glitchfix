@@ -1,4 +1,4 @@
-### Hello world there 👋
+### Hi 👋
 
 [![Glitchfix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glitchfix&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/Glitchfix)
 
