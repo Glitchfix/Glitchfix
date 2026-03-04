@@ -2,10 +2,6 @@
 
 Senior Software Engineer at [NVIDIA](https://github.com/NVIDIA), building simulation and robotics infrastructure on the Omniverse platform. I write GPU-accelerated physics pipelines, kinematics solvers, and autonomous vehicle simulation systems in C++, CUDA, and Python.
 
-Before simulation, I spent years building distributed storage control planes and Kubernetes-native infrastructure — contributing to [libopenstorage](https://github.com/libopenstorage) and shipping CSI drivers, operators, and Terraform modules across major cloud providers.
-
-Open-source contributor since [GSoC '18](https://summerofcode.withgoogle.com/). Published researcher in AI optimization. Competitive programmer (Google Code Jam qualifier, 2016–2022).
-
 ---
 
 ### Stack
@@ -49,13 +45,6 @@ Open-source contributor since [GSoC '18](https://summerofcode.withgoogle.com/). 
 - LLM training infrastructure — KV-cache compression, quantization-aware training
 - Distributed systems and cloud-native storage at scale
 - Low-level systems — kernel modules, storage drivers, eBPF
-
----
-
-### Research
-
-- [Prediction of Human Behavior with TOPSIS](https://www.journal-fea.com/article_145342.html) — *Journal of Fuzzy Extension and Applications*, 2022
-- [Optimization of ML Algorithms for Proteomic Analysis using TOPSIS](https://jes.sumdu.edu.ua/optimization-of-machine-learning-algorithms-for-proteomic-analysis-using-topsis/) — *Journal of Engineering Sciences*, 2022
 
 ---
 
