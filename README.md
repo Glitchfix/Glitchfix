@@ -2,7 +2,7 @@
 
 Senior Software Engineer at [NVIDIA](https://github.com/NVIDIA), building simulation and robotics infrastructure on the Omniverse platform. I write GPU-accelerated physics pipelines, kinematics solvers, and autonomous vehicle simulation systems in C++, CUDA, and Python.
 
-If you're a student or researcher working in STEM, feel free to reach out — happy to help.
+If you're a student or researcher working in STEM, feel free to reach out. Happy to help.
 
 ---
 
@@ -40,13 +40,13 @@ If you're a student or researcher working in STEM, feel free to reach out — ha
 
 ---
 
-### Currently thinking about
+### Interests
 
 - GPU-accelerated simulation and physics engines
-- Robotics — forward/inverse kinematics, motion planning, sensor fusion, sim-to-real transfer
-- LLM training infrastructure — KV-cache compression, quantization-aware training
-- Distributed systems and cloud-native storage at scale
-- Low-level systems — kernel modules, storage drivers, eBPF
+- Robotics (kinematics, motion planning, sensor fusion, sim-to-real)
+- LLM training infra, KV-cache compression, quantization-aware training
+- Distributed systems and cloud-native storage
+- Low-level systems, kernel modules, storage drivers, eBPF
 
 ---
 
