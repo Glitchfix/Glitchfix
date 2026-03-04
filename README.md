@@ -2,6 +2,8 @@
 
 Senior Software Engineer at [NVIDIA](https://github.com/NVIDIA), building simulation and robotics infrastructure on the Omniverse platform. I write GPU-accelerated physics pipelines, kinematics solvers, and autonomous vehicle simulation systems in C++, CUDA, and Python.
 
+If you're a student or researcher working in STEM, feel free to reach out — happy to help.
+
 ---
 
 ### Stack
@@ -52,10 +54,11 @@ Senior Software Engineer at [NVIDIA](https://github.com/NVIDIA), building simula
 <summary><b>GitHub Stats</b></summary>
 <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Glitchfix&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Glitchfix&theme=github_dark" alt="Profile Details" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchfix&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Glitchfix&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glitchfix&theme=github_dark" alt="Top Languages by Repo" />
 </p>
 </details>
 
